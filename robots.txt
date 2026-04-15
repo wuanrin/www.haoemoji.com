@@ -1,0 +1,8 @@
+# robots.txt for haoemoji.com
+# https://haoemoji.com
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://haoemoji.com/sitemap.xml
